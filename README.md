@@ -1,5 +1,5 @@
 
-#Máquina Virtual
+# Máquina Virtual
 
 Toda a parte prática do curso pode ser executada pela Máquina Virtual determinada. A já mesma vem com todos os programas que vamos usar. No entanto, será possível acompanhar o curso mesmo se não for baixado e instalado na Máquina Virtual.
 1. Realizar o download do programa Oracle VM VirtualBox, baixe e instale a versão do VirtualBox compatível com o seu sistema operacional. Instale seguindo as instruções do site.
