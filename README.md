@@ -1,15 +1,15 @@
 
-# M·quina Virtual
+# M√°quina Virtual
 
-Toda a parte pr·tica do curso pode ser executada pela M·quina Virtual determinada.†Ela j· vem com todos os programas que vamos usar.†No entanto, ser· possÌvel acompanhar o curso mesmo se n„o for baixado e instalado na M·quina Virtual.
-1. Realizar o download do programa†[Oracle VM VirtualBox](https://www.virtualbox.org/wiki/Downloads), baixe e instale a vers„o do VirtualBox compatÌvel com o seu sistema operacional.†Instale seguindo as instruÁıes do site.
-2. Realizar o download do [arquivo .ova da M·quina Virtual j· programada](https://drive.google.com/drive/folders/1ncK4ERukQBHCYMlFHR2qOVikmmZl82vZ?usp=sharing) 
-3. ApÛs instalar o VirtualBox e baixar o arquivo .ova da MV, abra o VirtualBox 
-4. Clique no Ìcone ìAula_bioinfoî que fica logo abaixo de ìFerramentasî
-5. Aguarde um pouquinho para carregar a m·quina.
-6. ApÛs a M·quina Virtual carregar, abra a pasta ìAula_bioinfoî
-7. E abra a tutorial ìaula bioinform·ticaî
-8. Em seguida abra o arquivo denominado ìxfce4 ñ terminal.desktopî, que È o terminal 
+Toda a parte pr√°tica do curso pode ser executada pela M√°quina Virtual determinada.¬†Ela j√° vem com todos os programas que vamos usar.¬†No entanto, ser√° poss√≠vel acompanhar o curso mesmo se n√£o for baixado e instalado na M√°quina Virtual.
+1. Realizar o download do programa¬†[Oracle VM VirtualBox](https://www.virtualbox.org/wiki/Downloads), baixe e instale a vers√£o do VirtualBox compat√≠vel com o seu sistema operacional.¬†Instale seguindo as instru√ß√µes do site.
+2. Realizar o download do [arquivo .ova da M√°quina Virtual j√° programada](https://1drv.ms/f/c/be966c6428bab9a0/EuECiEo6F-ZDiSD-bC4N-1kBhFHdEjFo8K6uFxeGWtWjAg?e=fEhXF3) 
+3. Ap√≥s instalar o VirtualBox e baixar o arquivo .ova da MV, abra o VirtualBox 
+4. Clique no √≠cone ‚Äúbioinfo2‚Äù que fica logo abaixo de ‚ÄúFerramentas‚Äù
+5. Aguarde um pouquinho para carregar a m√°quina.
+6. Ap√≥s a M√°quina Virtual carregar, abra a pasta ‚ÄúAula_bioinfo‚Äù
+7. E abra a tutorial ‚Äúaula bioinform√°tica‚Äù
+8. Em seguida abra o arquivo denominado ‚Äúxfce4 ‚Äì terminal.desktop‚Äù, que √© o terminal 
 
 
 
